@@ -6,7 +6,7 @@ const nextConfig = {
         path: "",
     },
     basePath: "/defi-nft-marketplace-mumbai",
-    assetPrefix: "/defi-nft/marketplace-mumbai",
+    assetPrefix: "/defi-nft-marketplace-mumbai",
 }
 
 module.exports = nextConfig
