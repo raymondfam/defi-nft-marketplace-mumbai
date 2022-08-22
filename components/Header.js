@@ -7,7 +7,7 @@ export default function Header() {
             <div>
                 <Link href="/">
                     <div className="max-h-[200px] max-w-[200px] px-4 cursor-pointer">
-                        <Image src={"/defi-nft-marketplace-mumbai/favicon.ico"} alt="Logo" />
+                        <Image src={"/defi-nft-marketplace-mumbai/transparent.png"} alt="Logo" />
                     </div>
                 </Link>
                 <h3 className="px-4 m-0">Defi NFT Marketplace</h3>
