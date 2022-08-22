@@ -14,5 +14,5 @@
 </ol>
 <br>
 
-## [Live Demo](https://raymondfam.github.io/defi-nft-marketplace-mumbai)
+## [Live Demo](https://raymondfam.github.io/defi-nft-marketplace)
 
