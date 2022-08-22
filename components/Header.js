@@ -5,11 +5,11 @@ export default function Header() {
     return (
         <nav className="p-5 flex flex-row justify-between items-center font-bold border-solid border-x-transparent border-t-transparent border-b-slate-200">
             <div>
-                <Link href="/">
+                {/* <Link href="/">
                     <div className="max-h-[200px] max-w-[200px] px-4 cursor-pointer">
                         <Image src={logo} alt="Logo" />
                     </div>
-                </Link>
+                </Link> */}
                 <h3 className="px-4 m-0">Defi NFT Marketplace</h3>
             </div>
             <div className="flex flex-row items-center">
