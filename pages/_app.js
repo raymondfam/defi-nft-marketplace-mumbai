@@ -5,8 +5,8 @@ import Head from "next/head"
 import { NotificationProvider } from "web3uikit"
 import { CssBaseline } from "@mui/material"
 
-const APP_ID = process.env.NEXT_PUBLIC_APP_ID
-const SERVER_URL = process.env.NEXT_PUBLIC_SERVER_URL
+const APP_ID = "4eB73pFngIRsq35hRTTJuHFFyq7kNCHe4OE16iWt"
+const SERVER_URL = "https://h22te1zf6urz.usemoralis.com:2053/server"
 
 function MyApp({ Component, pageProps }) {
     return (

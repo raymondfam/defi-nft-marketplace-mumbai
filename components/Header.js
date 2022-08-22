@@ -2,7 +2,6 @@ import { ConnectButton } from "web3uikit"
 import Link from "next/link"
 import logo from "../images/transparent.png"
 import Image from "next/image"
-import { useState } from "react"
 export default function Header() {
     return (
         <nav className="p-5 flex flex-row justify-between items-center font-bold border-solid border-x-transparent border-t-transparent border-b-slate-200">

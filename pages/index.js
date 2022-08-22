@@ -1,5 +1,4 @@
 import styles from "../styles/Home.module.css"
-import Header from "../components/Header"
 import MutualsOptimizer from "../components/mutual-components/MutualsOptimizer"
 import MutualsSwapForm from "../components/mutual-components/MutualsSwapForm"
 import MutualsStakeForm from "../components/mutual-components/MutualsStakeForm"
