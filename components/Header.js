@@ -6,11 +6,16 @@ export default function Header() {
         <nav className="p-5 flex flex-row justify-between items-center font-bold border-solid border-x-transparent border-t-transparent border-b-slate-200">
             <div>
                 <Link href="/">
-                    <div className="max-h-[200px] max-w-[200px] px-4 cursor-pointer">
-                        <Image src={"/transparent.png"} alt="Logo" />
+                    <div className="h-[69px] cursor-pointer relative">
+                        <Image
+                            src={"/defi-nft-marketplace-mumbai/transparent.png"}
+                            alt="Logo"
+                            objectFit="contain"
+                            layout="fill"
+                        />
                     </div>
                 </Link>
-                <h3 className="px-4 m-0">Defi NFT Marketplace</h3>
+                <h3 className="px-4 m-0 pt-3">Defi NFT Marketplace</h3>
             </div>
             <div className="flex flex-row items-center">
                 <Link href="/">
