@@ -1,6 +1,6 @@
 import { ConnectButton } from "web3uikit"
 import Link from "next/link"
-import logo from "../images/transparent.png"
+import logo from "./images/transparent.png"
 import Image from "next/image"
 export default function Header() {
     return (
