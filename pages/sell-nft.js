@@ -190,7 +190,11 @@ export default function Home() {
                         </div>
                         <div className="my-6">
                             <div className="text-lg mb-4">
-                                Proceeds:<span className="font-bold"> {proceeds}</span>{" "}
+                                Proceeds:
+                                <span className="font-bold">
+                                    {" "}
+                                    {ethers.utils.formatEther(proceeds).toString()} MATIC
+                                </span>{" "}
                             </div>
                             {proceeds != "0" ? (
                                 <LoadingButton
