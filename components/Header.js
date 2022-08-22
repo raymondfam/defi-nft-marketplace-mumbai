@@ -8,7 +8,7 @@ export default function Header() {
                 <Link href="/">
                     <div className="h-[69px] cursor-pointer relative">
                         <Image
-                            src={"/defi-nft-marketplace-mumbai/transparent.png"}
+                            src={"/transparent.png"}
                             alt="Logo"
                             objectFit="contain"
                             layout="fill"
