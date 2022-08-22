@@ -28,4 +28,5 @@ Click on 'Import tokens', located at the bottom of the 'Assets' tab on your wall
 <br />
 <img 
 src="./example-imgs/importtoken.png" 
+height="400px"
 alt="Import token example" />
