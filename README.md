@@ -3,17 +3,10 @@
 ## [Live Demo](https://raymondfam.github.io/defi-nft-marketplace-mumbai)
 
 ## How to get WETH
-<ol>
-<li>
 
-[Get Goerli ETH](https://goerlifaucet.com/)
+1. [Get Goerli ETH](https://goerlifaucet.com/)
+2. [Bridge Goerli ETH To Mumbai](https://wallet-dev.polygon.technology/polygon/bridge/deposit)
 
-<li>
-
-[Bridge Goerli ETH To Mumbai](https://wallet-dev.polygon.technology/bridge/)
-
-</li>
-</ol>
 <br>
 
 ## Importing Tokens
